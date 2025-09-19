@@ -6,7 +6,12 @@ void max_array(int arr[],int n){
             max=arr[i];
         }
     }
-    printf("the maximum element is %d ",max);
+    int sec_max=arr[0];
+    for(int i=0;i<5;i++){
+        if(arr[i]>sec_max && arr[i]!=max)
+        sec_max=arr[i];
+    }
+    printf("second max is %d",sec_max);
 
 }
 int main(){
