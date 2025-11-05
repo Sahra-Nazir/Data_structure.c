@@ -1,8 +1,8 @@
-# 📚 Data Structures – Weekly Codes (C Language)
+# 📚 Data Structures – daily Codes (C Language)
 
 ### 👩‍💻 Author
-**Name:** Your Name  
-**College:** Your College Name  
+**Name:** sahra nazir
+**College:** IUST
 **Semester:** 3rd Semester, B.Tech  
 **Subject:** Data Structures (C Language)
 
